@@ -1,3 +1,10 @@
+// Mulpable Year--
+// Write a java program to take input a date 12.2.24 (dd.m.yy) format and check that the multiplication of day and month is equal to 
+// the year.
+// Example-
+// 12.2.24
+// 12*2=24
+
 package MulpableY;
 import java.io.BufferedReader;
 import java.io.IOException;
