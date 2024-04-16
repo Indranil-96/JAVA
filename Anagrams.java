@@ -1,6 +1,3 @@
-// An anagram is a word or phrase formed by changing the order of the letters in the another word.
-
-
 package $Basic_Of_Programming;
 import java.io.InputStreamReader;
 import java.util.Arrays;
